@@ -1,0 +1,24 @@
+# Core dependencies
+python-pptx
+markdown-it-py
+mdformat
+pandas
+Pillow
+loguru
+
+# GUI
+customtkinter
+
+# Mermaid rendering
+pyppeteer
+cairosvg
+
+# Build
+PyInstaller
+
+# Development dependencies (optional)
+pytest
+pytest-cov
+black
+flake8
+mypy
